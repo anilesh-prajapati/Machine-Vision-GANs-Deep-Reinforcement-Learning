@@ -2,7 +2,7 @@
 
 This repository is home to the code that accompanies Machine Vision GANs Deep Reinforcement Learning series of video tutorials.
 
-# Machine Vision, GANs, and Deep Reinforcement Learning
+# Curriculum
 
 * #### Lesson 1: Orientation
 
